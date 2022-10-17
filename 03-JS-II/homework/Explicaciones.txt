@@ -1,0 +1,9 @@
+* `for`:
+
+El bucle for es una declaración que nos permite realizar una tarea (ejecutar un bloque de código) de forma repetitiva hasta que una condición o grupo de condiciones sean cumplidas.
+
+* `&&`, `||`, `!`
+&&, ||, ! son operadores lógicos que nos permiten trabajar con diferentes tipos de datos, generalmente con objetos que retornen un tipo de dato booleano, realizando operaciones que nos deben devolver algún valor booleano, sea true o false.
+el AND (&&) devuelve true si sus operandos son todos true, de lo contrario devuelve false.
+el OR (||) devuelve true si al menos uno de sus operandos es true, de lo contrario devuelve false.
+el NOT (!) devuelve el valor opuesto al operando aplicado, es decir, si se aplica a uin objeto que retorna true esta operación devuelve false y viceversa.

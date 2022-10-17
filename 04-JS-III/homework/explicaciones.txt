@@ -1,0 +1,5 @@
+ * Arrays:
+
+ Los arrays son colecciones de objetos (espacios en memoria reservados) los cuales se encuentran ordenados dentro del mismo. 
+ Dentro de un array pueden haber objetos de diferentes tipos, ya sean datos de tipo primitivos como numeros, strings y booleanos o tipos de objetos como otros arrays, funciones, etc.
+ Cuando se habla de que los elementos dentro de un array estan ordenados quiere decir que es posible acceder a cualquier elemento mediante su posición al momento de ser agregado al mismo.

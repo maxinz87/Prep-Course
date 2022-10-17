@@ -1,0 +1,20 @@
+ * Variables:
+
+	Las variables son espacios en memoria reservados para guardar información como numeros y textos, entre otros objetos. Esto sirve para procesar información en el momento requerido.
+
+ * Strings:
+
+	Los Strings son con cadena de caracteres que pueden ser guardadas en variables para poder ser procesadas cuando sea necesario. Generalmente son utilizados para procesar texto.
+
+ * Funciones (argumentos, `return`):
+
+	Las funciones son partes de código que se encargan de hacer una tarea determinada. Se encargan de procesar, y/o devolver información procesada (haciendo uso de la palabra clave "return").
+	Muchas veces a las funciones se les pasan argumentos, que son variables que vienen desde una parte externa de la función para que la misma trabaje con estos tipos de datos y devuelva los resultados que se espera que retorne.
+
+ * Declaraciones `if`:
+
+	El if es una sentencia condicional que nos permite ejecutar un bloque de codigo dependiendo de una condición que se le pase.
+
+ * Valores booleanos (`true`, `false`):
+
+	Los valores booleanos son un tipo de dato que son utilizados generalmente para realizar operaciones booleanas dentro de un control de flujo, bucles, etc.
