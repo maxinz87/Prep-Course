@@ -1,0 +1,23 @@
+	* Objetos
+    
+    Los objetos son contenedores de información, como lo son los arrays. Se puede guardar inforamción dentro de un objeto utilizando el patrón clave/valor, en donde la clave se utiliza para acceder (utilizando corchetes, como los arrays, o notacion de punto) a la información guardada.
+    
+    Dentro de un objeto se puede guardar cualquier tipo de información como numeros, strings, funciones, arrays y otros objetos.
+	
+    * Propiedades
+    
+    Las propiedades son valores guardados dentro de un objeto que son necesarios para describir caracteristicas del mismo.
+	
+    * Métodos
+    
+    Los métodos son funciones propias de un objeto, que resuelven tareas especificas de este, pudiendo utilizar las propiedades del mismo.
+	
+    * Bucle `for…in`
+    
+    Este bucle es utilizado para recorrer facilmente un objeto, ya que, al no tener indice númerico como un array, no es posible utilizar el for convencional.
+	
+    * Notación de puntos vs notación de corchetes
+    
+    Estas notaciones son dos formas distintas de acceder a una propiedad de un objeto.
+    La notacion de puntos se utiliza para acceder a propiedades de objetos colocando un punto luego del nombre del objeto, y a continuacion la clave o nombre de la propiedad de forma literal, es decir, no se puede utilizar una variable, como si se puede utilzar en la notación de corchetes.
+    La notacion de corchetes es más conveniente a la hora de usarla para recorrer un arreglo, o para acceder a datos de forma dinámica, en donde se inserte una variable dentro de los corchetes y se le pasen claves o nombres para poder acceder al valor requerido.
