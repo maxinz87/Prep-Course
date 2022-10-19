@@ -1,0 +1,7 @@
+* `prototype`
+
+    Prototype nos permite agregar métodos a las clases para que los objetos creados a partir de estas clases tengan acceso a dichos métodos.
+
+* _Constructors_ (de Clases)
+
+    Los contructores dentro de las clases nos permiten definir las propiedades de los objetos, los cuales son pasados como argumentos al momento de crear los objetos. es también dentro del constructor, mediante el método super, heredar propiedades y métodos de una clase padre.
